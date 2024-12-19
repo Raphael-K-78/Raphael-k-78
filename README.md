@@ -12,7 +12,7 @@ Je suis Raphael-K-78, passionné par [votre spécialité ou domaine] et toujours
 
 ## 📊 Mes langages les plus utilisés
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-K-78&layout=compact&theme=radical)
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Raphael-K-78&theme=radical)](https://github.com/Raphael-K-78)
 
 ---
 
