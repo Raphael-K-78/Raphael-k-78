@@ -4,6 +4,6 @@
 
 ![Langues principales](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-K-78&layout=compact&theme=tokyonight)
 
-[![Graphique d'activité GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=Raphael-K-78&theme=tokyonight)](https://github.com/VOTRE_NOM_UTILISATEUR)
+[![Graphique d'activité GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=Raphael-K-78&theme=tokyonight)](https://github.com/Raphael-K-78)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_NOM_UTILISATEUR&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raphael-K-78&theme=tokyonight)](https://git.io/streak-stats)
